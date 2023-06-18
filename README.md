@@ -3,3 +3,4 @@ This project is generally about Analyzing COVID-19 data using Python in Anaconda
 to gain insights into the pandemic's impact over the world
 ->Python libraries
    matplotlib,pandas,Numpy
+Tools used:Anaconda Navigator,jupyter notebook
